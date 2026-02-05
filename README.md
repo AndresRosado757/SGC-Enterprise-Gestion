@@ -35,3 +35,9 @@ Este proyecto ha sido desarrollado bajo un modelo de **aprendizaje activo y cola
 2. Abrir el proyecto en **NetBeans** o cualquier IDE compatible con Ant.
 3. Ejecutar la clase `GestionCoches.java`.
 4. Al registrar un coche, se creará automáticamente el archivo `concesionario.dat` para guardar tu stock.
+
+## Plan a Futuro
+
+* **Interfaz Gráfica (GUI):** Evolucionar el sistema actual hacia una interfaz interactiva y visualmente atractiva (utilizando Swing o JavaFX).
+* **Experiencia de Usuario:** Crear una apariencia amigable e intuitiva que facilite su implementación real en concesionarios.
+* **Carácter Profesional:** Integrar paneles de control estadísticos, gestión de imágenes de vehículos y reportes exportables para elevar el estándar profesional del software.
